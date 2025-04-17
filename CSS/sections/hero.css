@@ -46,8 +46,9 @@
   flex-direction: column;
 }
 .hero-content-info {
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 600px;
+  text-align: center;
   font-family: var(--playfair-display);
   color: var(--secondary-color);
 }
